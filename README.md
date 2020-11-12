@@ -1,5 +1,5 @@
 # RepoDB
-> RepoDB is a simple file based database of git repositories. Metadata for files and repositories is provided as flat json files within.
+> RepoDB is a simple file based database of git repositories. Metadata for files and repositories are provided as flat json files within.
 
 This module is used to facilitate a local file storage database with "automatic" version control support. The design focused on low-traffic applications with increased file auditing and retention. Performance may suffer for high traffic applications, although that has not been investigated.
 
