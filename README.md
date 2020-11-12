@@ -9,7 +9,7 @@ go get github.com/readpe/repodb
 ```
 
 ## Usage Example
-**See [examples_test.go](examples_test.go) for full example.**
+**See [example_test.go](example_test.go) for full example.**
 
 General steps:
 1. Create file record type(s) satisfying Record interface
